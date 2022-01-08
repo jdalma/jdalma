@@ -1,6 +1,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jeongdalma)](https://solved.ac/jeongdalma)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongcode)](https://github.com/jeongcode/github-readme-stats)
+
 <!--
 **jeongcode/jeongcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
