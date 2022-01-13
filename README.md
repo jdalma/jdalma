@@ -3,7 +3,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jeongdalma)](https://solved.ac/jeongdalma)
 [![Tech Blog Badge](http://img.shields.io/badge/-%20Blog-black?style=flat-square&logo=github&link=https://jeongcode.github.io/)](https://jeongcode.github.io/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongcode)](https://github.com/jeongcode/github-readme-stats)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeongcode)](https://github.com/jeongcode/github-readme-stats) -->
 
 </div>
   
