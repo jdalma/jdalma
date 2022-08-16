@@ -6,12 +6,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jeongdalma)](https://solved.ac/jeongdalma)
 [![Tech Blog Badge](http://img.shields.io/badge/-%20Blog-black?style=flat-square&logo=github&link=https://jdalma.github.io/)](https://jdalma.github.io/)
 
-<br>
-
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdalma)](https://github.com/jdalma/github-readme-stats) -->
-
-
-
 <!-- <br> [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jeongdalma)](https://solved.ac/jeongdalma) <br> -->
 
 </div>
