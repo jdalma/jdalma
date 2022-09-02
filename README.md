@@ -1,8 +1,10 @@
 
 
 <div align="center">
+  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jeongdalma)](https://solved.ac/jeongdalma)
 [![Tech Blog Badge](http://img.shields.io/badge/-%20Blog-black?style=flat-square&logo=github&link=https://jdalma.github.io/)](https://jdalma.github.io/)
+  
 </div>
   
 <!--
