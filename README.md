@@ -18,12 +18,10 @@
 1. `TDD`
 1. `JPA`
 1. `Spring`
-
-***
     
 ## **Study**
 
-1. [코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `2022-08-01 ~ 2022-10-02`
+- [코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `2022-08-01 ~ 2022-10-02`
 
 |  | 제목          | 리뷰               | 회고 |
 |:--|:-------------|:------------------|:------|
@@ -31,11 +29,12 @@
 | 2주차 | [**Spring Web 으로 ToDo REST API 만들기**](https://github.com/jdalma/spring-week2-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week2-assignment-1/pull/94)  | [회고](https://jdalma.github.io/docs/retrospective/2022y08m/#8%EC%9B%94-%EB%91%98-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0)  |
 | 3주차 | [**Spring Mock MVC , 유닛 테스트 작성하기**](https://github.com/jdalma/spring-week3-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week3-assignment-1/pull/83) | [회고](https://jdalma.github.io/docs/retrospective/2022y08m/#8%EC%9B%94-%EC%85%8B-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0---%EC%BD%94%EB%93%9C%EC%88%A8-3%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%EC%8A%A4%ED%94%84%EB%A7%81-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)   |
 | 4주차 | [**TDD로 `상품 도메인` 구현하기**](https://github.com/jdalma/spring-week4-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week4-assignment-1/pull/76) | [회고](https://jdalma.github.io/docs/retrospective/2022y08m/#8%EC%9B%94-%EB%84%B7-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0---%EC%BD%94%EB%93%9C%EC%88%A8-4%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%9E%A5%EB%82%9C%EA%B0%90-%EA%B0%80%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0)|
-| 5주차 | [**TDD로 `사용자 도메인` 구현하기**](https://github.com/jdalma/spring-week5-assignment-1)  | [코드 리뷰](https://github.com/CodeSoom/spring-week5-assignment-1/pull/75)
- |  |
+| 5주차 | [**TDD로 `사용자 도메인` 구현하기** (+ 유효성 검사)](https://github.com/jdalma/spring-week5-assignment-1)  | [코드 리뷰](https://github.com/CodeSoom/spring-week5-assignment-1/pull/75)
+| 6주차 | [**JWT를 활용한 인증 구현하기**]()
 
-1. [알고리즘 스터디](https://github.com/jdalma/Algorithm-Study) `22.4.20 ~ `
-1. [코드숨 알고리즘 스터디](https://github.com/jdalma/algorithm-for-coding-test) `22.8.22 ~ `
+- [알고리즘 스터디](https://github.com/jdalma/Algorithm-Study) `22.4.20 ~ `
+- [코드숨 알고리즘 스터디](https://github.com/jdalma/algorithm-for-coding-test) `22.8.22 ~ `
+- [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5) `22.8.29 ~`
 
 <!--
 **jdalma/jdalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
