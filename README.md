@@ -7,7 +7,6 @@
   
 </div>
 
-동작 원리와 핵심 컨셉을 이해하기 위해 노력하고 , 꾸준히 `학습` 하고 `성장`하는 **백엔드 개발자** 입니다.<br>
 - [개인 블로그](https://jdalma.github.io/)
 - [Lombok `@Getter` 만들어보기](https://github.com/jdalma/jeong-lombok)
     - `@JeongGetter` : AST 조작
