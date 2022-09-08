@@ -13,12 +13,6 @@
     - `@JeongGetter` : AST 조작
     - `@JeongPoetGetter` : JavaPoet 사용
 
-지금은 `______` 에 관심을 가지고 있습니다.
-1. `OOP`
-1. `TDD`
-1. `JPA`
-1. `Spring`
-    
 ## **Study**
 
 - [코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `2022-08-01 ~ 2022-10-02`
