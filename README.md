@@ -14,6 +14,9 @@
 
 ## **Study**
 
+- [오브젝트 읽기 모임]() `22.09.03 ~`
+- [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5) `22.8.29 ~`
+- [코드숨 알고리즘 스터디](https://github.com/jdalma/algorithm-for-coding-test) `22.8.22 ~ `
 - [코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `2022-08-01 ~ 2022-10-02`
 
 |  | 제목          | 리뷰               | 회고 |
@@ -26,8 +29,7 @@
 | 6주차 | [**JWT를 활용한 인증 구현하기**](https://github.com/jdalma/spring-week6-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week6-assignment-1/pull/70)
 
 - [알고리즘 스터디](https://github.com/jdalma/Algorithm-Study) `22.4.20 ~ `
-- [코드숨 알고리즘 스터디](https://github.com/jdalma/algorithm-for-coding-test) `22.8.22 ~ `
-- [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5) `22.8.29 ~`
+
 
 <!--
 **jdalma/jdalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
