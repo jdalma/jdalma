@@ -15,8 +15,7 @@
 ## **Study**
 
 - [오브젝트 읽기 모임](https://github.com/jdalma/book-object/tree/master) `22.09.03 ~`
-- [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5) `22.8.29 ~`
-- [코드숨 알고리즘 스터디](https://github.com/jdalma/algorithm-for-coding-test) `22.8.22 ~ `
+- [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5) `22.08.29 ~`
 - [코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `22.08.01 ~ 22.10.02`
 
 |  | 제목          | 리뷰               | 회고 |
@@ -28,8 +27,8 @@
 | 5주차 | [**TDD로 `사용자 도메인` 구현하기** (+ 유효성 검사)](https://github.com/jdalma/spring-week5-assignment-1)  | [코드 리뷰](https://github.com/CodeSoom/spring-week5-assignment-1/pull/75) | [회고](https://jdalma.github.io/docs/retrospective/2022y09m/#9%EC%9B%94-%EC%B2%AB-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0---%EC%BD%94%EB%93%9C%EC%88%A8-5%EC%A3%BC%EC%B0%A8-%EA%B3%BC%EC%A0%9C-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%9E%A5%EB%82%9C%EA%B0%90-%EA%B0%80%EA%B2%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 6주차 | [**JWT를 활용한 인증 구현하기**](https://github.com/jdalma/spring-week6-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week6-assignment-1/pull/70)
 
-- [알고리즘 스터디](https://github.com/jdalma/Algorithm-Study) `22.4.20 ~ `
-
+- [알고리즘 스터디](https://github.com/jdalma/Algorithm-Study) `22.04.20 ~ `
+- [코드숨 알고리즘 스터디](https://github.com/jdalma/algorithm-for-coding-test) `22.08.22 ~ 22.09.16`
 
 <!--
 **jdalma/jdalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
