@@ -14,8 +14,8 @@
 
 ## **Study**
 
-- [오브젝트 읽기 모임](https://github.com/jdalma/book-object/tree/master) `22.09.03 ~`
-- [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5) `22.08.29 ~`
+- [오브젝트 읽기 모임](https://github.com/jdalma/book-object/wiki/%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8) `22.09.03 ~`
+- [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5/wiki/%ED%86%A0%ED%94%84%EB%A7%81-%EC%9D%BD%EA%B8%B0-%EB%AA%A8%EC%9E%84) `22.08.29 ~`
 - [코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `22.08.01 ~ 22.10.02`
 
 |  | 제목          | 리뷰               | 회고 |
