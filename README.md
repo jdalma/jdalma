@@ -42,7 +42,7 @@
 
 - [오브젝트 읽기 모임](https://github.com/jdalma/book-object/wiki) `22.09.03 ~`
 - [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5/wiki) `22.08.29 ~`
-- [알고리즘 스터디](https://github.com/jdalma/Algorithm-Study) `22.04.20 ~ `
+- [알고리즘 스터디](https://github.com/jdalma/Algorithm-Study) `22.04.20 ~ 22.09.04`
 - [코드숨 알고리즘 스터디](https://github.com/jdalma/algorithm-for-coding-test) `22.08.22 ~ 22.09.16`
 
 <!--
