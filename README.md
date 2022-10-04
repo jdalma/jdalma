@@ -33,6 +33,7 @@
 | 7주차 | [**사용자 패스워드 `암호화` 및 `인가` 처리를 Spring Security로 처리**](https://github.com/jdalma/spring-week7-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week7-assignment-1/pull/74) | [회고](https://jdalma.github.io/docs/retrospective/2022y09m/#9%EC%9B%94-%EB%84%B7-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0)
 | 8주차 | [**`Spring REST Docs` 적용, `Docker`로 빌드 및 배포**](https://github.com/jdalma/spring-week8-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week8-assignment-1/pull/67) | [회고](https://jdalma.github.io/docs/retrospective/2022y10m/#10%EC%9B%94-%EC%B2%AB-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0-%EC%BD%94%EB%93%9C%EC%88%A8-%EB%81%9D)
 
+[우아한테크캠프 프로 사전과제](https://jdalma.github.io/docs/retrospective/woowahan/)
 
 </div>
 </details>
