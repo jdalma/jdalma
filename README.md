@@ -9,15 +9,14 @@
 
 - [개인 블로그](https://jdalma.github.io/)
 - [회고](https://jdalma.github.io/docs/retrospective)
+- [우아한테크캠프 프로 사전과제](https://jdalma.github.io/docs/retrospective/woowahan/)
 - [Lombok `@Getter` 만들어보기](https://github.com/jdalma/jeong-lombok)
     - `@JeongGetter` : AST 조작
     - `@JeongPoetGetter` : JavaPoet 사용
 
 ## **Education**
 
-- [우아한테크캠프 프로 사전과제](https://jdalma.github.io/docs/retrospective/woowahan/) `22.09.27 ~ 22.10.10`
-- [코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `22.08.01 ~ 22.10.02`
-
+[코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `22.08.01 ~ 22.10.02`
 
 <details>
 <summary>코드숨 더 보기</summary>
@@ -43,18 +42,3 @@
 - [토프링 읽기 모임](https://github.com/jdalma/tobyspringin5/wiki) `22.08.29 ~`
 - [알고리즘 스터디](https://github.com/jdalma/Algorithm-Study) `22.04.20 ~ 22.09.04`
 - [코드숨 알고리즘 스터디](https://github.com/jdalma/algorithm-for-coding-test) `22.08.22 ~ 22.09.16`
-
-<!--
-**jdalma/jdalma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
