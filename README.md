@@ -8,9 +8,6 @@
 </div>
 
 - [회고](https://jdalma.github.io/docs/retrospective)
-- [Lombok `@Getter` 만들어보기](https://github.com/jdalma/jeong-lombok)
-    - `@JeongGetter` : AST 조작
-    - `@JeongPoetGetter` : JavaPoet 사용
 
 ## **Education**
 
