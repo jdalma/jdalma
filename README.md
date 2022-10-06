@@ -7,9 +7,7 @@
   
 </div>
 
-- [개인 블로그](https://jdalma.github.io/)
 - [회고](https://jdalma.github.io/docs/retrospective)
-- [우아한테크캠프 프로 사전과제](https://jdalma.github.io/docs/retrospective/woowahan/)
 - [Lombok `@Getter` 만들어보기](https://github.com/jdalma/jeong-lombok)
     - `@JeongGetter` : AST 조작
     - `@JeongPoetGetter` : JavaPoet 사용
