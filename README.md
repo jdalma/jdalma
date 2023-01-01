@@ -3,12 +3,12 @@
 <div align="center">
   
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=jeongdalma)](https://solved.ac/jeongdalma)
-[![Tech Blog Badge](http://img.shields.io/badge/-%20Blog-black?style=flat-square&logo=github&link=https://jdalma.github.io/)](https://jdalma.github.io/)
   
 </div>
 
-- [회고](https://jdalma.github.io/docs/retrospective)
+1. [2022년 회고](https://jdalma.github.io/docs/retrospective/2022y/yearend/)
 
+<!--
 ## **Education**
 
 [코드숨 - 소프트웨어 개발의 지혜 스프링 편](https://www.codesoom.com/courses/spring) `22.08.01 ~ 22.10.02`
@@ -27,6 +27,6 @@
 | 6주차 | [**JJWT `인증`(Authentication) 구현하기**](https://github.com/jdalma/spring-week6-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week6-assignment-1/pull/70) | [회고](https://jdalma.github.io/docs/retrospective/2022y09m/#9%EC%9B%94-%EC%85%8B-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0)
 | 7주차 | [**사용자 패스워드 `암호화` 및 `인가` 처리를 Spring Security로 처리**](https://github.com/jdalma/spring-week7-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week7-assignment-1/pull/74) | [회고](https://jdalma.github.io/docs/retrospective/2022y09m/#9%EC%9B%94-%EB%84%B7-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0)
 | 8주차 | [**`Spring REST Docs` 적용, `Docker`로 빌드 및 배포**](https://github.com/jdalma/spring-week8-assignment-1) | [코드 리뷰](https://github.com/CodeSoom/spring-week8-assignment-1/pull/67) | [회고](https://jdalma.github.io/docs/retrospective/2022y10m/#10%EC%9B%94-%EC%B2%AB-%EC%A7%B8%EC%A3%BC-%ED%9A%8C%EA%B3%A0-%EC%BD%94%EB%93%9C%EC%88%A8-%EB%81%9D)
-
+-->
 </div>
 </details>
