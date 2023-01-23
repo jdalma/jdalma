@@ -6,7 +6,7 @@
   
 </div>
 
-1. [2022년 회고](https://jdalma.github.io/docs/retrospective/2022y/yearend/)
+[2022년 연말 회고](https://jdalma.github.io/2022y/yearend/)
 
 <!--
 ## **Education**
