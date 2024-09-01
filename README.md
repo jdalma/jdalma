@@ -6,8 +6,9 @@
   
 </div>
 
-[2023년 회고](https://jdalma.github.io/2023y/retrospect/)  
-[2022년 회고](https://jdalma.github.io/2022y/yearend/)
+- [ ] **2024년** [기록](https://jdalma.github.io/2024y/bookReview/bookReview/), 회고 
+- [x] **2023년** [기록](https://jdalma.github.io/2023y/bookReview/bookReview/), [회고](https://jdalma.github.io/2023y/retrospect/)
+- [x] **2022년** [회고](https://jdalma.github.io/2022y/yearend/)
 
 <!--
 ## **Education**
